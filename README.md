@@ -1,4 +1,4 @@
-# Bot discord with Webhook n8n
+# Bot discord with n8n
 
 This repo provides a simple **discord** bot application with **Webhook** and **RabbitMQ**.
 
